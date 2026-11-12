@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/insightsurge/insightsurge.r-universe.dev
 	branch = HEAD
+[submodule "mascot"]
+	path = mascot
+	url = https://github.com/insightsurge/mascot
